@@ -1,8 +1,7 @@
 # Evidencija aktivnosti
 
-## Datum
+## 06.11.2020.
 Pocetak | Kraj
 ------- | ----
-00:00   | xx:xx
+14:15   | xx:xx
 ### Kratki opis promjena
-Opis promjena
