@@ -9,6 +9,7 @@
 ## Opis projekta
 Potrebno je napisati kratki opis projekta.
 Opis mora sadržavati popis funkcionalnosti koje će biti implementirane (npr. "prijava korisnika", "unos novih poruka", "pretraživanje poruka po autoru" itd...)
+Napraviti ću aplikaciju za praćenje osobnih prihoda i rashoda. Kroz aplikaciju će se moći ...
 
 ## Početna struktura aplikacije
 Potrebno je inicijalizirati početnu strukturu backend i frontend aplikacija.
